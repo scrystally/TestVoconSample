@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:oneshot="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="40" android:drawable="@drawable/listdialogue_mic38" />
+    <item android:duration="40" android:drawable="@drawable/listdialogue_mic39" />
+    <item android:duration="40" android:drawable="@drawable/listdialogue_mic40" />
+    <item android:duration="40" android:drawable="@drawable/listdialogue_mic41" />
+    <item android:duration="40" android:drawable="@drawable/listdialogue_mic42" />
+    <item android:duration="40" android:drawable="@drawable/listdialogue_mic43" />
+    <item android:duration="40" android:drawable="@drawable/listdialogue_mic44" />
+    <item android:duration="40" android:drawable="@drawable/listdialogue_mic45" />
+    <item android:duration="40" android:drawable="@drawable/listdialogue_mic46" />
+    <item android:duration="40" android:drawable="@drawable/listdialogue_mic47" />
+    <item android:duration="40" android:drawable="@drawable/listdialogue_mic48" />
+    <item android:duration="40" android:drawable="@drawable/listdialogue_mic49" />
+    <item android:duration="40" android:drawable="@drawable/listdialogue_mic50" />
+    <item android:duration="40" android:drawable="@drawable/listdialogue_mic51" />
+    <item android:duration="40" android:drawable="@drawable/listdialogue_mic52" />
+    <item android:duration="40" android:drawable="@drawable/listdialogue_mic53" />
+    <item android:duration="40" android:drawable="@drawable/listdialogue_mic54" />
+    <item android:duration="40" android:drawable="@drawable/listdialogue_mic55" />
+    <item android:duration="40" android:drawable="@drawable/listdialogue_mic56" />
+    <item android:duration="40" android:drawable="@drawable/listdialogue_mic57" />
+    <item android:duration="40" android:drawable="@drawable/listdialogue_mic58" />
+    <item android:duration="40" android:drawable="@drawable/listdialogue_mic59" />
+    <item android:duration="40" android:drawable="@drawable/listdialogue_mic60" />
+</animation-list>

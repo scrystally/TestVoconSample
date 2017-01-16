@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:oneshot="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="100" android:drawable="@drawable/listdialogue_icon" />
+    <item android:duration="100" android:drawable="@drawable/listdialogue_mic2" />
+    <item android:duration="100" android:drawable="@drawable/listdialogue_mic3" />
+    <item android:duration="100" android:drawable="@drawable/listdialogue_mic4" />
+    <item android:duration="100" android:drawable="@drawable/listdialogue_mic5" />
+    <item android:duration="100" android:drawable="@drawable/listdialogue_mic6" />
+    <item android:duration="100" android:drawable="@drawable/listdialogue_mic7" />
+    <item android:duration="100" android:drawable="@drawable/listdialogue_mic8" />
+    <item android:duration="100" android:drawable="@drawable/listdialogue_mic9" />
+    <item android:duration="100" android:drawable="@drawable/listdialogue_mic10" />
+    <item android:duration="100" android:drawable="@drawable/listdialogue_mic11" />
+    <item android:duration="100" android:drawable="@drawable/listdialogue_mic12" />
+    <item android:duration="100" android:drawable="@drawable/listdialogue_mic13" />
+    <item android:duration="100" android:drawable="@drawable/listdialogue_mic14" />
+    <item android:duration="100" android:drawable="@drawable/listdialogue_mic15" />
+    <item android:duration="100" android:drawable="@drawable/listdialogue_mic16" />
+    <item android:duration="100" android:drawable="@drawable/listdialogue_mic17" />
+    <item android:duration="100" android:drawable="@drawable/listdialogue_mic18" />
+    <item android:duration="100" android:drawable="@drawable/listdialogue_mic19" />
+</animation-list>
