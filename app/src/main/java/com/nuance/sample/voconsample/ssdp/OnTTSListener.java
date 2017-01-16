@@ -5,6 +5,6 @@ package com.nuance.sample.voconsample.ssdp;
  */
 
 public interface OnTTSListener {
-    public void OnTTS(String ttsStr);
-    public void OnMotion(Byte mByte);
+    void OnTTS(String ttsStr);
+    void OnMotion(Byte mByte);
 }
